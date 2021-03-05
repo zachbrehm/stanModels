@@ -1,0 +1,9 @@
+---
+title: "Stan Model Code"
+author: "Zachary Brehm"
+output: github_document
+---
+
+## Introduction
+
+This repository contains stan code to sample from the posterior of a random effects model with either an Inverse-Gamma prior or Half-t prior.
